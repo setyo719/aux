@@ -2,7 +2,6 @@ import telebot
 import requests
 import json
 import random
-from kbbi import KBBI
 
 
 api = '1591355584:AAG-gjzmlYpuyZAZL3AB5NHC6lN__JwKEFM'
