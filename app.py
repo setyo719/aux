@@ -4,7 +4,7 @@ import json
 import random
 
 
-api = '1591355584:AAG-gjzmlYpuyZAZL3AB5NHC6lN__JwKEFM'
+api = 'ISI_DENGAN_APIkEY_TELE_LU'
 bot = telebot.TeleBot(api)
 handlermsg = '''
 Hai berikut menu dari bot ini!!
